@@ -39,7 +39,7 @@ class MenuPrimerosAuxilios extends StatelessWidget {
                 muestra(context, 'Intoxicación', 'imagen', 'informacion', 'Ver más', 'ruta'),
                 muestra(context, 'Quemaduras', 'imagen', 'informacion', 'Ver más', 'ruta'),
                 muestra(context, 'RCP', 'imagen', 'informacion', 'Ver más', 'ruta'),
-              ]
+              ] 
             ),
           ),
         ),
